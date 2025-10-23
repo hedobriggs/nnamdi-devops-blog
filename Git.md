@@ -242,14 +242,15 @@ Git will ask you to write a new commit message for the squashed commits. Note th
 Save and close the editor
 
 
-V: Verify the completed rebaseOnce the rebase finishes, confirm the result with
+V: Verify the completed rebase
+Once the rebase finishes, confirm the result with
 
 ![Alt text](images/verify_rebase.webp)
 
 
 You should now see:
 
-![Alt text](images/verify_rebae_2.webp)
+![Alt text](images/verify_rebase_2.webp)
 
 Your commit history is now cleaner and easier to understand
 
