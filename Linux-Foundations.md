@@ -85,6 +85,7 @@ Nano is one of the easiest text editors in Linux. It’s beginner-friendly, intu
 
 ![Alt text](create_using_nano.webp)
 
+
 A text editor that creates and edits files without needing to memorize complex commands
 
 Once you’re inside nano:
