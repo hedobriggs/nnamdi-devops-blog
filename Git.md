@@ -258,6 +258,7 @@ Your commit history is now cleaner and easier to understand
 ### 🍒 **Cherry-Pick**
 
 If you want to grab a specific commit from another branch and apply it to your current one?
+
 \* Use: git cherry-pick
 
 for example:
