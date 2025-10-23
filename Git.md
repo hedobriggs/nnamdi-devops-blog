@@ -193,7 +193,7 @@ Use merge to keep history clear, rebase to keep it neat.
 🪜 i. What to do:
 See your recent commits
 
-![Alt text](images/iteractive_rebase_recent_commits.webp)
+![Alt text](images/interactive_rebase_recent_commits.webp)
 
 
 example output
@@ -206,7 +206,8 @@ Count from the top. If you want to clean up the last 4 commits, you’ll use HE
 ii. Start the interactive rebase
 
 ![Alt text](images/start_rebase.webp)
-    Show last 4commits only
+
+Show last 4commits only
     
 
 This opens a list like:
