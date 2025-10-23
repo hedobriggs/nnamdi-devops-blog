@@ -83,7 +83,7 @@ Once you’re inside the vi editor:
 
 Nano is one of the easiest text editors in Linux. It’s beginner-friendly, intuitive, and doesn’t require memorizing keyboard shortcuts like vi
 
-![Alt text](create_using_nano.webp)
+![Alt text](images/create_using_nano.webp)
 
 
 A text editor that creates and edits files without needing to memorize complex commands
@@ -106,13 +106,13 @@ Once you’re inside nano:
 
 If you just want to create a file with a quick line of text, like a config setting or a log entry — echo is your best friend.
 
-![Alt text](create_using_echo.webp)
+![Alt text](images/create_using_echo.webp)
 
 Echo is the quick way to create a file and drop in content with a single command
 
 You can also append content to an existing file
 
-![Alt text](append_using_echo.webp)
+![Alt text](images/append_using_echo.webp)
 
 Append new content to a file without needing to open it.
 
@@ -127,7 +127,7 @@ Once you’ve got your folders set up, the next thing you’ll want to do is mov
     
 *   **mv stands for “move”**—it shifts a file or folder from one place to another. You can also use it to rename things.
     
-![Alt text](copy_move_files.webp)
+![Alt text](images/copy_move_files.webp)
 
 If you’re ever unsure, try **cp -rv** to see a verbose output of each file being copied.
 
@@ -144,7 +144,7 @@ Linux uses the **rm** command to delete files and folders. Use with caution be
     
 *   **rm -rf** filename → Force deletes a folder (without prompts)
     
-![Alt text](deleting_files.webp)
+![Alt text](images/deleting_files.webp)
 
 **rm is** powerful and irreversible. Always double-check the path before using it
 
@@ -164,11 +164,11 @@ To have a visual representation of your folder hierarchy, the tree command is 
 *   tree -a → Includes hidden files in the output
     
 
-![Alt text](dir_structure.webp)
+![Alt text](images/dir_structure.webp)
 
 After running the tree command the below displays
 
-![Alt text](dir_structure_tree_command.webp)
+![Alt text](images/dir_structure_tree_command.webp)
 
 This structure gives you a clean, organized view of your project folders and files
 
@@ -188,7 +188,7 @@ In Linux, every file and folder has **three levels of access**:
 
 Each level is assigned permissions using numbers:
 
-![Alt text](permission_&_ownership.webp)
+![Alt text](images/permission_&_ownership.webp)
 
 To set permissions, you **add the values** together:
 
@@ -203,7 +203,7 @@ To set permissions, you **add the values** together:
 
 *   **chmod**
     
-![Alt text](modifing_files_chmod.webp)
+![Alt text](images/modifing_files_chmod.webp)
 
 One wrong permission setting can expose sensitive data or break your deployment
 
@@ -218,7 +218,7 @@ Before your script runs, Linux needs to know **which shell** should interpret 
 
 🧠 Common Shells in Linux
 
-![Alt text](shells_linux.webp)
+![Alt text](images/shells_linux.webp)
 
 Example: Your First Script
 
@@ -228,7 +228,7 @@ Step 1: Create the script file: touch first\_script.sh
 
 Step 2: Write the content of the script: nano first\_script.sh
 
-![Alt text](first_script.webp)
+![Alt text](images/first_script.webp)
 
 Without the shebang (#!/bin/bash), your script might not run correctly
 
@@ -253,7 +253,7 @@ Step 6: Check the result of the running script: cat basketball/james.txt ( it sh
     
 *   ip a → Displays IP address configuration
 
-![Alt text](network_&_debugging.webp)
+![Alt text](images/network_&_debugging.webp)
     
 
 📊 9. System Monitoring
@@ -271,7 +271,7 @@ Monitoring your system helps you track performance, troubleshoot issues, and man
     
 *   htop → Enhanced version of top(verify install status)
     
-![Alt text](system_monitoring.webp)
+![Alt text](images/system_monitoring.webp)
 
 Press q to exit top. Use htop for a more colourful, user-friendly interface
 
@@ -292,7 +292,7 @@ Linux is a multi-user system. You can create, delete, manage users and groups to
     
 *   id username→ Shows user’s UID, GID, and groups
     
-![Alt text](user_management.webp)
+![Alt text](images/user_management.webp)
 
 Always use sudo for user and group management to ensure proper permissions
 
