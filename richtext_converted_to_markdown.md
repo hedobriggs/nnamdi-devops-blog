@@ -34,6 +34,7 @@ Before you can do anything meaningful in Linux, you need to understand how files
 *   **ls -la** → List all (including hidden) files.
     
 ![Alt text](images/Folder_management.webp)
+
 Whether you’re setting up environments, organizing scripts, or prepping config files, mastering these basics is essential. It’s the first step in building clarity and control into your workflow
 
 📄2. Creating and Editing files
