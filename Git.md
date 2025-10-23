@@ -23,22 +23,25 @@ Every local Git repo has three key areas:
 Follow the official guide: [_Git installation_](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ![Alt text](images/install_git.webp)
-        
-        Without updating local package, your system might try to install an outdated version
+
+Without updating local package, your system might try to install an outdated version
+
 
 ### 🧪 Getting Started with Git
 
 🔧 Initialize a Repository
 
 ![Alt text](images/get_started.webp)
-    Think of git init as saying: _“Hey Git, start keeping track of everything in here_
+Think of git init as saying: _“Hey Git, start keeping track of everything in here
+
 
 📝 Create and Track a File
 
 Let’s walk through a practical example:
 
 ![Alt text](images/track_file.webp)
-    **What just happened?** You’ve created a snapshot of your file that Git will remember forever.
+**What just happened?** You’ve created a snapshot of your file that Git will remember forever.
+
 
 ✏️ Modifying Files
 ------------------
