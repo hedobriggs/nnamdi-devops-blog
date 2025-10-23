@@ -1,6 +1,5 @@
                                             **Git**
-                                            =======
-
+                                           
 Git is an open-source **distributed version control system** that allows developers and operations teams to collaborate, track changes, and manage code efficiently. It’s the foundation of modern DevOps workflows.
 
 ### 📁 Repository Types
