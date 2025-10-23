@@ -23,6 +23,7 @@ Every local Git repo has three key areas:
 Follow the official guide: [_Git installation_](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ![Alt text](images/install_git.webp)
+        
         Without updating local package, your system might try to install an outdated version
 
 ### 🧪 Getting Started with Git
